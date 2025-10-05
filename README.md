@@ -1,23 +1,32 @@
-![saturnlink7](https://github.com/user-attachments/assets/bc8152fd-3da3-49f4-bfdb-f725893608f2)
+![IMG_3327](https://github.com/user-attachments/assets/507039cd-354a-49ca-a9b1-93d5051ce4e4)
+
 
 利用3D打印机和普通网线为世嘉土星制作一根联机对战线
 
+20251005 UPDATE ,5 WIRES:​
 
-支持列表：
+Compatible games​
 
-Daytona USA Circuit Edition
+Japan​
+
+Daytona USA Circuit Edition (the menu->link battle)
+Doom (change game mode)
+Gungriffon 2 (the menu->live)
+Hexen (very buggy!accessed through debug menu,at the options screen,press Up, Down, Left, Right, Y, Y, Z, Z, A, X, Up, Down, C, then B, ->miscellaneous->cheat->game:link->new game)
+Hyper 3D Taisen Battle Gebockers (the option->LINK ON)
+Hyper Reverthion ( the menu,auto link)
+Steeldom (the menu,auto link)
+Europe​
 
 Doom
+Hexen (accessed through debug menu, very buggy)
 
-Gungriffon 2
+North America​
 
-Hexen 
+Hexen (accessed through debug menu, very buggy)
 
-Hyper 3D Taisen Battle Gebockers
-
-Hyper Reverthion
-
-Steeldom
+![IMG_3326](https://github.com/user-attachments/assets/75d8f54f-b72b-4294-b5df-da0e8044d1b7)
+![IMG_3325](https://github.com/user-attachments/assets/0fa685dc-1e58-4168-a5d3-f9a1ce4aff04)
 
 
 ![3Dtaisenlink2](https://github.com/user-attachments/assets/2ed2f78f-08fd-4358-94b8-ad5cedb6b235)

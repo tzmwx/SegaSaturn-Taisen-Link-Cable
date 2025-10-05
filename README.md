@@ -10,16 +10,28 @@ Compatible games​
 Japan​
 
 Daytona USA Circuit Edition (the menu->link battle)
+
 Doom (change game mode)
+
 Gungriffon 2 (the menu->live)
+
 Hexen (very buggy!accessed through debug menu,at the options screen,press Up, Down, Left, Right, Y, Y, Z, Z, A, X, Up, Down, C, then B, ->miscellaneous->cheat->game:link->new game)
+
 Hyper 3D Taisen Battle Gebockers (the option->LINK ON)
+
 Hyper Reverthion ( the menu,auto link)
+
 Steeldom (the menu,auto link)
+
+
+
+
 Europe​
 
 Doom
 Hexen (accessed through debug menu, very buggy)
+
+
 
 North America​
 
